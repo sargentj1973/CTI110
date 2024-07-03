@@ -1,5 +1,5 @@
-# Your Name
-# Date
+# James Sargent
+# 06/2024
 # Assignment Name: Introduction to Python 3
 # A brief description of the project:
 #   This program prompts the user to enter their first name and last name separately,
